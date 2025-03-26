@@ -69,8 +69,7 @@
     <header>
         <h1>Art Gallery</h1>
     </header>
-
-    <section class="gallery">
+<section class="gallery">
         <div class="gallery-item">
             <img src="https://thepopularlist.com/wp-content/uploads/2020/07/800px-Hovhannes_Aivazovsky_-_The_Ninth_
             Wave_-_Google_Art_Project.jpg" alt="Art 1">
@@ -144,10 +143,7 @@
             <div class="description">
                 <h3> The Great Wave Of Kanagawa By Hokusai</h3>
                 <p>Hokusai may not be as well known as many western painters, but he has been an inspiration for many of the most famous 
-                    painters we know today.
-
-                    He produced a series of prints of Mount Fuji which made him famous the world over.</p>
-            </div>
+                    painters we know today. He produced a series of prints of Mount Fuji which made him famous the world over.</p>
         </div>
         </section>
 
